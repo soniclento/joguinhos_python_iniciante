@@ -29,8 +29,8 @@ while True:
     player_num = 0
     player_choise = ''
 if cont == 0:
-    print('nossa, não foi dessa vez. Boa sorte na próxima XD')
+    print(' \nnossa, não foi dessa vez. Boa sorte na próxima XD')
 if cont == 1:
-    print('eu venci, mas empatamos no total. bom jogo!')
+    print(' \neu venci, mas empatamos no total. bom jogo!')
 if cont > 1:
     print(f' \neu venci essa, mas você ganhou de mim no geral pois me venceu {cont} vezes seguidas. não vou facilitar da próxima vez >:(')
